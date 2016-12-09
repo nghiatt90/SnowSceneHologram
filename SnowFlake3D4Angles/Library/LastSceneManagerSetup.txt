@@ -1,4 +1,7 @@
 sceneSetups:
 - path: Assets/Hologram Pyramid/Scene/Demo.unity
+  isLoaded: 0
+  isActive: 0
+- path: Assets/Hackathon/Scenes/SelfMade.unity
   isLoaded: 1
   isActive: 1
